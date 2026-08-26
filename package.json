@@ -1,0 +1,12 @@
+{
+  "name": "travis-ci-demo",
+  "version": "1.0.0",
+  "description": "Demo project for Travis CI automated testing",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
